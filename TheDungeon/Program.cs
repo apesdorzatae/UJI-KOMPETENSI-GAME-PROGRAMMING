@@ -10,6 +10,7 @@ namespace TheDungeon
     {
         static void Main(string[] args)
         {
+            //belum dikerjakan, waktunya gak cukup 
         }
     }
 }
